@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/StarGame.dir/main.cpp.o  -o StarGame  /usr/lib/libOpenGL.so /usr/lib/libGLX.so /usr/lib/libGLU.so -lglfw -lglfw -lrt -lm -ldl -lX11 -lpthread -lxcb -lXau -lXdmcp /usr/lib/libGLEW.so /usr/lib/libfreetype.so /usr/lib/libSOIL.so 

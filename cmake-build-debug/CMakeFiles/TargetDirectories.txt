@@ -1,3 +1,0 @@
-/home/maks/Desktop/StarGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/maks/Desktop/StarGame/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/maks/Desktop/StarGame/cmake-build-debug/CMakeFiles/StarGame.dir
