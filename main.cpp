@@ -45,7 +45,7 @@ void init(vector<Asteroid> *ast){
 
     for(auto & astr : *ast) {
         auto b = 20;
-        astr = Asteroid(rand()%width,rand()%height,b,b);
+        astr = Asteroid(rand()%width,rand()%(height + height/2),b,b);
         astr.setS(vec2(0.0f, -Gs));
     }
 }

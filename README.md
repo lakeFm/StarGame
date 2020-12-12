@@ -11,9 +11,16 @@ Used OOP as base code style
 - Freetype2 (Text Render)
 - SOIL (Loader Image into Textures)
 
+### Build
+
+    cd build
+    cmake ..
+    make
+    ./StarGame
+
 ### How to Play
 
-    ./StarGame //linux
+    ./StarGame 
 
 Use arrow keys left ( < ) and right ( > ) to move rocket. <br>
 Space to shoot.  <br>
