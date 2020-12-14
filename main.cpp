@@ -129,9 +129,9 @@ int main(int argc, char *argv[]){
 
             if (glfwGetKey(window, GLFW_KEY_ESCAPE) == GLFW_PRESS) {
                 state = MODE::MENU;
-                score = 0;
-                Gs = 1;
-                astrs.clear();
+                //score = 0;
+                //Gs = 1;
+                //astrs.clear();
                 for(int a = 0; a < 5 ;a ++)bullet[a] = nullptr;
             }
         }
